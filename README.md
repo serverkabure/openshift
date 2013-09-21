@@ -1,4 +1,4 @@
 openshift
 =========
 
-openshift関連ファイル
+openshift関連のファイル置き場
